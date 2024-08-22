@@ -65,6 +65,8 @@
       <change beforePath="$PROJECT_DIR$/../assets/icons/512x512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/icons/64x64.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/icons/96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../release/app/package-lock.json" beforeDir="false" />
@@ -90,7 +92,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
